@@ -6,8 +6,13 @@ quietly run in the background.
 
 - 🛠️ **Focus:** web scraping, automation, and LLM/AI-agent tooling
 - 🐍 **Stack:** Python · BeautifulSoup · Selenium · OpenAI/Claude APIs · n8n / Make / Zapier
-- 🌱 **Contributing to open source** in the tools I use every day
-- 📫 **Reach me:** hello@automiqdata.com
+- 🌱 **Building & contributing to open source** in the tools I use every day
+- 📫 **Reach me:** saifalimz@gmail.com
 
 ### Open source
+
+**Maintaining**
+- [`selenium-proxy-tools`](https://github.com/SAKMZ/selenium-proxy-tools) — authenticated & rotating proxies made easy for Chrome-based automation (Selenium · SeleniumBase · undetected-chromedriver · Playwright). Zero dependencies, standard library only.
+
+**Contributing**
 - [`simonw/llm`](https://github.com/simonw/llm) — improving Windows support for the popular LLM CLI

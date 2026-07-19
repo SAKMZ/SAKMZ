@@ -7,7 +7,7 @@ quietly run in the background.
 - 🛠️ **Focus:** web scraping, automation, and LLM/AI-agent tooling
 - 🐍 **Stack:** Python · BeautifulSoup · Selenium · OpenAI/Claude APIs · n8n / Make / Zapier
 - 🌱 **Building & contributing to open source** in the tools I use every day
-- 📫 **Reach me:** saifalimz@gmail.com
+- 📫 **Reach me:** hello@automiqdata.com
 
 ### Open source
 

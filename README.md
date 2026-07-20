@@ -12,6 +12,7 @@ quietly run in the background.
 ### Open source
 
 **Maintaining**
+- [`user-agents-ng`](https://github.com/SAKMZ/python-user-agents) — maintained, drop-in successor to the popular `user-agents` library (10M+ downloads/month). Python 3.9–3.14, type hints, CI. → [PyPI](https://pypi.org/project/user-agents-ng/)
 - [`selenium-proxy-tools`](https://github.com/SAKMZ/selenium-proxy-tools) — authenticated & rotating proxies made easy for Chrome-based automation (Selenium · SeleniumBase · undetected-chromedriver · Playwright). Zero dependencies, standard library only.
 
 **Contributing**
